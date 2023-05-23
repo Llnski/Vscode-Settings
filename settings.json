@@ -1,0 +1,120 @@
+{
+    "workbench.colorTheme": "Frege",
+    "solidity.compileUsingRemoteVersion": "v0.8.3+commit.8d00100c",
+    "json.maxItemsComputed": 10000,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "svelte.enable-ts-plugin": true,
+    "svelte.plugin.svelte.compilerWarnings": {
+        "a11y-missing-attribute": "ignore",
+        "a11y-img-redundant-alt": "ignore",
+        "a11y": "ignore"
+    },
+    "editor.largeFileOptimizations": false,
+    "security.workspace.trust.enabled": false,
+    "coqtop.binPath": "C:\\Users\\waffl_g\\Documents\\Coq-Platform-8.14-2022.04\\bin",
+    "coq.proofViewDiff.addedTextIsItalic": true,
+    "xml.server.binary.trustedHashes": [
+        "34f51b1d8c3b85bf8af72502c3a52ca841d11cf76f848be198631e0dd2b7e169"
+    ],
+    "redhat.telemetry.enabled": false,
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["d"],
+            "after": [ "\"", "_", "d" ]
+        }
+    ],
+    "vim.useSystemClipboard": true,
+    "typescript.tsserver.watchOptions": {
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.preferredDarkColorTheme": "Gruvbox Dark Hard",
+    "editor.inlayHints.enabled": "off",
+    "workbench.reduceMotion": "on",
+    "terminal.integrated.allowChords": false,
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "vim.camelCaseMotion.enable": true,
+    "editor.fontSize": 16,
+    "java.jdt.ls.java.home": "c:\\Program Files\\Eclipse Adoptium\\jdk-17.0.4.101-hotspot",
+    "powershell.promptToUpdatePowerShell": false,
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.symbolCacheDownload": true,
+    "svelte.plugin.svelte.useNewTransformation": false,
+    "playwright.reuseBrowser": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.olean": true,
+        "bin/": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+        "**/*~": true
+    },
+    "workbench.colorCustomizations": {
+    //"[Frege]": {
+    //    "editorBracketHighlight.foreground1": "#59CE8F",
+    //    "editorBracketHighlight.foreground2": "#fabd2f",
+    //    "editorBracketHighlight.foreground3": "#076678",
+    //    "editorBracketHighlight.foreground4": "#8f3f71",
+    //    "editorBracketHighlight.foreground5": "#d65d0e",
+    //    "editorBracketHighlight.foreground6": "#abb2c0",
+
+    //    "statusBar.background" : "#101118",
+    //    "statusBar.noFolderBackground" : "#d65d0e",
+    //    "statusBar.debuggingBackground": "#59CE8F",
+
+    //    "sideBar.background": "#101118",
+    //    "sideBar.dropBackground": "#2E3440",
+    //    "sideBarSectionHeader.background": "#2E3440",
+    //    "banner.background": "#2E3440",
+    //    "activityBar.background": "#2E3440",
+    //    "debugToolBar.background": "#2E3440",
+    //    "titleBar.activeBackground": "#101118",
+    //    "tab.activeBackground": "#5D7198",
+    //    "tab.inactiveBackground": "#2E3440",
+    //    "tab.unfocusedHoverBackground": "#2E3440",
+    //    "editorGroupHeader.tabsBackground": "#101118"
+
+    //}
+    },
+    "editor.language.colorizedBracketPairs": [
+
+        
+
+
+
+    
+    ],
+
+    "[python]": {
+         "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true
+        }
+    },
+    "python.formatting.provider": "black",
+    "julia.enableTelemetry": false,
+    "arduino.useArduinoCli": true,
+    "python.languageServer": "Jedi",
+    "powershell.powerShellAdditionalExePaths": {
+        "terminal": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "betterPowershell": "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+    },
+    "editor.fontFamily": "\"CaskaydiaCove NF Mono\", Consolas, 'Courier New', monospace",
+    "terminal.explorerKind": "external",
+    "lean.typesInCompletionList": true,
+    "markdown.marp.enableHtml": true,
+}//"#4f82bc"
